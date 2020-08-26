@@ -1,0 +1,5 @@
+/build
+/mflix
+/node_modules
+dotenv_unix
+dotenv_win
